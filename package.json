@@ -1,8 +1,13 @@
 {
   "name": "gulp-js-escape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin to turn a file into a JavaScript escaped string",
-  "keywords": ["gulpplugin","gulp","escape","javascript"],
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "escape",
+    "javascript"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha"
