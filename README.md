@@ -1,5 +1,7 @@
 # Gulp JavaScript escape
 
+[![npm version](https://badge.fury.io/js/gulp-js-escape.svg)](http://badge.fury.io/js/gulp-js-escape)
+
 A Gulp plugin that turns a file into a JavaScript escaped string.
 
 ```js
